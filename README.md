@@ -6,4 +6,4 @@
   <a href="https://boom-shakalaka-84034.firebaseapp.com/">🔥 You can never have too much Shakalaka in your life 🔥</a>
 </p>
 
-**I built this to explain how you can set up an Angular CLI application with Firebase and Travis CI. Check out the post [here.]()**
+**I built this to explain how you can set up an Angular CLI application with Firebase and Travis CI. Check out the post [here.](https://houssein.me/continuous-integration-angular-firebase-travisci)**
