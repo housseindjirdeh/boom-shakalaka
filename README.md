@@ -1,5 +1,5 @@
 # Boom Shakalaka
 
-🔥
+🔥 You can never have too much Shakalaka in your life 🔥
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
+**I built this to explain how you can set up an Angular CLI application with Firebase and Travis CI. Check out the post [here.]()**
